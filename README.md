@@ -1,4 +1,10 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=50E8F7&width=435&lines=Software+Engineer;Data+Engineer;Site+Reliability+%2F+Cloud+Engineer;Wanna-be+Security+Engineer)](https://git.io/typing-svg)
+
+My Interests
+
+- Docker / Kubernetes / GKE
+- Selenium / Nodriver / Undetected-Chromedriver
+- Pandas / Polars / Duckdb / Spark
 
 <!--
 **fafnirZ/fafnirZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
