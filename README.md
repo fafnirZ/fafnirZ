@@ -7,7 +7,7 @@
 - OCR
 
 ### Pokemons
-[![My Skills](https://skillicons.dev/icons?i=python,c,go,java,clojure,js,react,postgres,docker,kubernetes,terraform,prometheus,grafana,linux,gcp,ansible,vscode,vim&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,c,go,java,clojure,js,react,postgres,docker,kubernetes,terraform,prometheus,grafana,linux,gcp,ansible,vscode,vim&perline=10)](https://skillicons.dev)
 <!--
 **fafnirZ/fafnirZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
