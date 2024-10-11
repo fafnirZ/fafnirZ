@@ -1,10 +1,13 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=50E8F7&width=435&lines=Software+Engineer;Data+Engineer;Site+Reliability+%2F+Cloud+Engineer;Wanna-be+Security+Engineer)](https://git.io/typing-svg)
-
+### Intro
+- python developer
+- WIP rust developer
 ### My Interests
-- Docker / Kubernetes / GKE
-- Selenium / Nodriver / Undetected-Chromedriver
-- Pandas / Polars / Duckdb / Spark / CuDF
-- OCR
+- Devops/SRE technologies: Docker / Kubernetes / GKE
+- Webscraping technologies: Selenium / Nodriver / Undetected-Chromedriver
+- Dataframe technologies: Pandas / Polars / Duckdb / Spark / CuDF
+- ML/AI technologies: OCR
+- Rust/Python interop technologies: PyO3 / Maturin
 
 ### Pokemons
 [![My Skills](https://skillicons.dev/icons?i=python,rust,c,go,java,clojure,js,react,postgres,docker,kubernetes,terraform,prometheus,grafana,linux,gcp,ansible,vscode,vim&perline=10)](https://skillicons.dev)
