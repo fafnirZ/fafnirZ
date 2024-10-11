@@ -2,7 +2,8 @@
 ### Intro
 - primarily a python developer
 - WIP rust developer
-- 
+
+
 ### Things I'm interested in / have experience in using.
 - Cloud Platforms: GCP stack (GBQ, GCS, GKE, CloudSQL, AlloyDB, etc.)
 - Devops/SRE technologies: Docker / Kubernetes / GKE
