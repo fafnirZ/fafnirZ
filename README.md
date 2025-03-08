@@ -1,7 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=50E8F7&width=435&lines=Software+Engineer;Data+Engineer;Site+Reliability+%2F+Cloud+Engineer;Wanna-be+Security+Engineer)](https://git.io/typing-svg)
 ### Intro
 - primarily a python developer
-- WIP C++ developer
 
 
 ### Things I'm interested in / have experience in using.
